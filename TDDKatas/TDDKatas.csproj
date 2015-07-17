@@ -49,6 +49,7 @@
     <Compile Include="TheRomanNumerals\Class1.cs" />
     <Compile Include="TheRomanNumerals\RomanNumeralsConverter.cs" />
     <Compile Include="TheStringCalculator\The StringCalculator.cs" />
+    <Compile Include="TheStringSum\TheStringSum.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
