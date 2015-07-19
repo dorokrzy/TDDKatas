@@ -44,6 +44,7 @@
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="TheBowlingScore\TheBowlingKataTests.cs" />
+    <Compile Include="TheFizzBuzz\FizzBuzz.cs" />
     <Compile Include="TheOddEven\TheOddEvenKata.cs" />
     <Compile Include="ThePrimaFactor\ThePrimeFactors.cs" />
     <Compile Include="TheRomanNumerals\Class1.cs" />
