@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2013
-VisualStudioVersion = 12.0.31101.0
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TDDKatas", "TDDKatas\TDDKatas.csproj", "{9E25217F-EA71-40D2-8D04-3806A74079CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheChessKnightPuzzle", "TheChessKnightPuzzle\TheChessKnightPuzzle.csproj", "{B77CEB98-3C4C-4066-82A5-9F06364F641A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{9E25217F-EA71-40D2-8D04-3806A74079CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9E25217F-EA71-40D2-8D04-3806A74079CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9E25217F-EA71-40D2-8D04-3806A74079CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B77CEB98-3C4C-4066-82A5-9F06364F641A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B77CEB98-3C4C-4066-82A5-9F06364F641A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B77CEB98-3C4C-4066-82A5-9F06364F641A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B77CEB98-3C4C-4066-82A5-9F06364F641A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
